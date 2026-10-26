@@ -1,0 +1,14 @@
+mlflow==3.17.2
+prefect==3.9.0
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+requests==2.34.2
+fastapi==0.150.0
+uvicorn==0.54.0
+pydantic==2.14.1
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.4.0
